@@ -1,0 +1,9 @@
+# form formatting
+name:  <name>
+place: <place>
+tag:   <tag>
+
+# key properties
+<name> := string
+<place> := string
+<tag> := enum { "good", "ok", "bad" }
