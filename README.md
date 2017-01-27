@@ -1,7 +1,7 @@
-# ttdb
+# Text Templated Database
 
-ttdb is a Text Templated Database written in [Rust](https://www.rust-lang.org). 
-The motivation to write it in Rust is to learn a new language.
+TTDb is written in [Rust](https://www.rust-lang.org). The motivation to   
+write it in Rust is to learn a new language.
 
 ## Project Goal
 
